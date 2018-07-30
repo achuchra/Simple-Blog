@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<title>Gdziebądź - mini blog podróżniczy</title>
+	<title>Gdziebądź - blog podróżniczy</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=Lobster|Raleway" rel="stylesheet">
 </head>
